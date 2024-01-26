@@ -1,0 +1,1 @@
+document.querySelector("head > script:nth-child(5)")
