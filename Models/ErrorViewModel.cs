@@ -1,4 +1,4 @@
-namespace TEAM4.Models
+namespace ProjectSEM3.Models
 {
     public class ErrorViewModel
     {
