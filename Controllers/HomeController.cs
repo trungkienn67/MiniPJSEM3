@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
+using ProjectSEM3.Models;
 using System.Diagnostics;
-using TEAM4.Models;
+using ProjectSEM3.Models;
 
-namespace TEAM4.Controllers
+namespace ProjectSEM3.Controllers
 {
     public class HomeController : Controller
     {
